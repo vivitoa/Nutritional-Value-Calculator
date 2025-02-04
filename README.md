@@ -1,7 +1,9 @@
 ```markdown
 # Nutritional Value Calculator 🥗📊
 
-A Python GUI application that calculates nutritional values for food items and recipes using the Edamam API. Track calories, proteins, fats, and carbohydrates for individual ingredients or entire meals!
+A Python GUI application that calculates nutritional values for food items and
+recipes using the Edamam API. Track calories, proteins, fats, and carbohydrates
+for individual ingredients or entire meals!
 
 
 ## Features ✨
