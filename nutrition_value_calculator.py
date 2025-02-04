@@ -1,7 +1,8 @@
 import requests
+import os
 
-API_ID = 'b2c2c93a'
-API_KEY = '82201f3c1f217d614654d1bb53541973'
+API_ID = os.getenv('API_ID')
+API_KEY = os.getenv('API_KEY')
 API_URL = 'https://api.edamam.com/api/nutrition-data'
 
 
