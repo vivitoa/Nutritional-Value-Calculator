@@ -24,18 +24,13 @@ This is a Python program that allows users to input various food items and their
 
 ## Usage
 
-1. **Option 1: Use Provided API Keys**
-   - You can use the provided API key and ID below:
-     - API ID: `b2c2c93a`
-     - API Key: `82201f3c1f217d614654d1bb53541973`
-
-2. **Option 2: Register Your Own API Keys**
+**Register Your Own API Keys**
    - Register at [Edamam](https://developer.edamam.com/) and create a new application to obtain your API key and ID.
    - Replace `YOUR_API_ID` and `YOUR_API_KEY` in the code with your actual values.
 
-3. Run the script:
+2. Run the script:
     ```bash
     python nutrition_calculator.py
     ```
 
-4. Follow the prompts to enter food items and their quantities.
+3. Follow the prompts to enter food items and their quantities.
