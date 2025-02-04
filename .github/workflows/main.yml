@@ -23,4 +23,4 @@ jobs:
           pip install requests
 
       - name: Run script
-        run: nutrition_value_calculator.py
+        run: python nutrition_value_calculator.py
