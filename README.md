@@ -1,4 +1,4 @@
-```markdown
+
 # Nutritional Value Calculator 🥗📊
 
 A Python GUI application that calculates nutritional values for food items and
