@@ -75,5 +75,4 @@ MIT License - See [LICENSE](LICENSE) file
 ⭐ Feel free to star the repository if you find this useful!  
 🐛 Report issues in GitHub repository  
 💡 Suggestions and contributions welcome!
-```
 
